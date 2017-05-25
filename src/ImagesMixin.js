@@ -1,0 +1,1 @@
+export const ImagesMixin = {data(){return {"images":{"circle.png":"images/circle.png","hexagon.png":"images/hexagon.png","moon.png":"images/moon.png","octogon.png":"images/octogon.png","rectangle.png":"images/rectangle.png","square.png":"images/square.png","star.png":"images/star.png","triangle.png":"images/triangle.png"}} }}
