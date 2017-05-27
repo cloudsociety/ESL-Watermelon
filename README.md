@@ -2,6 +2,8 @@
 
 > A Vue-based *WH-* question game for ESL learners
 
+![](demo-watermelon.gif)
+
 One ESL learner is the "Watermelon" and must answer questions using the selected image. Other learners ask *WH-* questions in an effort to make the "Watermelon" laugh. Discourage mean questions. **Works great on interactive whiteboards.**
 
 ## How to use
@@ -9,10 +11,10 @@ One ESL learner is the "Watermelon" and must answer questions using the selected
 After adding images and building the app, open `index.html`. Images can be toggled on or off until one remains. Click the image or refresh the window for new random board.
 
 ## Ideas
- * What's your name? My name is [watermelon]
+ * What's your name? My name is \[watermelon].
  * How old are you? I'm 7 [watermelons] old.
- * Where do you live? I live in a [watermelon].
- * What does your teacher look like? He looks like a [watermelon].
+ * Where do you live? I live in a \[watermelon].
+ * What does your teacher look like? He looks like a \[watermelon].
 
 ## Build Setup
 
